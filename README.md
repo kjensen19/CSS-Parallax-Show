@@ -6,8 +6,7 @@ Research something related to CSS!
   > Not all things are easy to demonstrate but come up with something. A visual helps convey what it is you researched.
 2. Update the README.md file in your repository to include a short 2-3 sentence description of your topic & any links or references that were helpful in your research. 
 3. Start a thread in Slack with a link to your example GitHub repo to share what you've learned! 
-  - If you start the thread, please pin it!
-  - If a thread is already out there, please reply to it.
+  > If you start the thread, please pin it! If a thread is already out there, please reply to it.
 4. Submit the assignment with a link to your GitHub repository containing an example (HTML/CSS) showing what you researched.
 
 ## Possible topics
