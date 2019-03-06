@@ -3,7 +3,7 @@
 Research something related to CSS!
 
 1. Create a new GitHub repository with a quick demo or example code showing what you researched. 
-  - Not all things are easy to demonstrate but come up with something. A visual helps convey what it is you researched.
+  > Not all things are easy to demonstrate but come up with something. A visual helps convey what it is you researched.
 2. Update the README.md file in your repository to include a short 2-3 sentence description of your topic & any links or references that were helpful in your research. 
 3. Start a thread in Slack with a link to your example GitHub repo to share what you've learned! 
   - If you start the thread, please pin it!
